@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unleash your potential with every sip of our expertly crafted coffee, designed to fuel your creativity and enhance focus.",
+        "title": "Brain Brew: Elevate Your Mind"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash your potential with every sip of our expertly crafted coffee, designed to fuel your creativity and enhance focus.",
+        "title": "Brain Brew: Elevate Your Mind"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unleash your potential with every sip of our expertly crafted coffee, designed to fuel your creativity and enhance focus.",
+        "title": "Brain Brew: Elevate Your Mind"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unleash your potential with every sip of our expertly crafted coffee, designed to fuel your creativity and enhance focus.",
+        "title": "Brain Brew: Elevate Your Mind"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash your potential with every sip of our expertly crafted coffee, designed to fuel your creativity and enhance focus.",
+        "title": "Brain Brew: Elevate Your Mind"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unleash your potential with every sip of our expertly crafted coffee, designed to fuel your creativity and enhance focus.",
+        "title": "Brain Brew: Elevate Your Mind"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unleash your potential with every sip of our expertly crafted coffee, designed to fuel your creativity and enhance focus.",
+        "title": "Brain Brew: Elevate Your Mind"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash your potential with every sip of our expertly crafted coffee, designed to fuel your creativity and enhance focus.",
+        "title": "Brain Brew: Elevate Your Mind"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Brain Brew: Elevate Your Mind",
+  "subtitle": "Unleash your potential with every sip of our expertly crafted coffee, designed to fuel your creativity and enhance focus."
+}
